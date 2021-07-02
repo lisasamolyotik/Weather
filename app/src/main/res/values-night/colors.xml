@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="day_temp">@color/white</color>
+    <color name="night_temp">#888</color>
+</resources>
